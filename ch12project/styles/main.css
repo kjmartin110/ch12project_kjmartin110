@@ -1,0 +1,31 @@
+
+body {
+    background-color: #f0f4f8;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    color: #333;
+}
+
+h1 {
+    color: #234a70;
+}
+
+input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #888;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    background-color: #234a70;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #234a70;
+    cursor: pointer;
+}
+
+.message {
+    color: #234a70;
+    margin: 20px 0;
+}
